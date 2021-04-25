@@ -355,7 +355,9 @@ section .title::after{
 .skills-content .right .Ai::before{
     width: 80%;
 }
-
+.skills-content .right .Af::before{
+    width: 80%;
+}
 
 /* contact section styling */
 .contact .title::after{
